@@ -18,6 +18,6 @@ Segunda a sexta, das 08h00 às 18h30
 
 | Produto | Para que serve |
 | --- |
-| Vendas | A imobiliaria anuncia, negocia e vende os imoveis |
-| Aluguel | A imobiliaria aluga, cobra e acompanha os imoveis |
-| Site e paineis | O site da empresa, a area de quem administra e a area de quem vende |
+| Vendas | A imobiliária anuncia, negocia e vende os imóveis |
+| Aluguel | A imobiliária aluga, cobra e acompanha os imóveis |
+| Site e painéis | O site da empresa, a área de quem administra e a área de quem vende |
