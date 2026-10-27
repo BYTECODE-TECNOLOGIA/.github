@@ -16,10 +16,8 @@ Segunda a sexta, das 08h00 às 18h30
 
 ## Produtos
 
-| Repositório | Função |
-| --- | --- |
-| `lux-imobiliaria` | SaaS de vendas para imobiliárias |
-| `lux-aluguel` | SaaS de locação |
-| `lux-crm` | Hub institucional, landing, documentação, administração e portal do vendedor |
-
-Os repositórios de produto são privados.
+| Produto | Para que serve |
+| --- |
+| Vendas | A imobiliaria anuncia, negocia e vende os imoveis |
+| Aluguel | A imobiliaria aluga, cobra e acompanha os imoveis |
+| Site e paineis | O site da empresa, a area de quem administra e a area de quem vende |
