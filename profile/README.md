@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.bytecode.company"><img src="imagens/hero.webp" alt="Site da Bytecode: inteligência artificial que entra em produção, com o robô 3D interativo" width="100%"></a>
+  <a href="https://www.bytecode.company"><img src="imagens/capa.svg" alt="Bytecode: inteligência artificial que entra em produção. Agentes, automações e produtos sob medida passam pela engenharia da Bytecode e chegam à produção" width="100%"></a>
 </p>
 
 Software house em Goiânia, atuando em todo o Brasil. A Bytecode projeta e constrói agentes, automações e produtos digitais com inteligência artificial para empresas, e desenvolve a [Dolt](https://dolt.com.br), plataforma de vendas, locação e gestão para imobiliárias brasileiras.
